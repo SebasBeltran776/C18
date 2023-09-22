@@ -12,6 +12,7 @@ public class Clase2 {
         // Objetos o Wrapper
         //Cadena de caracter
         //ejemploooooo sebas
+        //sebass
         String valor1; // si esta de esta forma la variable es null
         String valor2="Mauricio";//Variable inicializada
 
